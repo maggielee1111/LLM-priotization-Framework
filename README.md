@@ -10,8 +10,7 @@ This repository contains the LLM-driven evidence synthesis pipeline and the repl
 
 * **`resultanalysis.ipynb`**: Applies the prioritization criteria to rank the drugs based on the LLM outputs.
 
-* **`data/`**: Contains the input files, specifically:
-    * `LLMvalidationAD112025/drug_disease_long_format_20250325_190703.csv`
+* **`drug_disease_long_format_20250325_190703.csv`**: Contains the input files.
 
 ## 🚀 How to Run the Code
 
