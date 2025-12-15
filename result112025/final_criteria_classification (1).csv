@@ -1,0 +1,291 @@
+Drug_ID,Drug_name,Disease_ID,Disease_name,Model,Total_Abstracts,Analyzed,Positive,Neutral,Negative,Overall_Assessment,Total_Analyzed,Rate_Positive,Rate_Neutral,Rate_Negative,Criterion_1,Criterion_2,Display_Rate_Pos,Display_Rate_Neu,Display_Rate_Neg
+17584.0,Adalimumab,28780,Alzheimer disease,Hetio,49,49,0,49,0,Neutral,49,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14632.0,Adenosine phosphate ,28780,Alzheimer disease,TxGNN,200,200,0,200,0,Neutral,200,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+20162.0,Alirocumab,28780,Alzheimer disease,TxGNN,2,2,0,1,1,Inconclusive,2,0.0,0.5,0.5,Potentially Adverse Effect,No Positive Sign,0.0%,50.0%,50.0%
+14220.0,Apomorphine,28780,Alzheimer disease,TxGNN,9,9,1,8,0,Neutral,9,0.1111111111111111,0.8888888888888888,0.0,Potentially Therapeutic,Potentially Therapeutic,11.1%,88.9%,0.0%
+14871.0,Aprotinin,28780,Alzheimer disease,CompGCN,15,15,0,15,0,Neutral,15,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14139.0,Benzatropine,28780,Alzheimer disease,Hetio,2,2,0,1,1,Inconclusive,2,0.0,0.5,0.5,Potentially Adverse Effect,No Positive Sign,0.0%,50.0%,50.0%
+14288.0,Benzylpenicillin,28780,Alzheimer disease,Hetio,200,200,0,200,0,Neutral,200,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14019.0,Betamethasone,28780,Alzheimer disease,Hetio,4,4,0,3,1,Neutral,4,0.0,0.75,0.25,Potentially Adverse Effect,No Positive Sign,0.0%,75.0%,25.0%
+14956.0,Carbamazepine,28780,Alzheimer disease,CompGCN,39,39,6,32,1,Neutral,39,0.15384615384615385,0.8205128205128205,0.02564102564102564,Potentially Therapeutic,Potentially Therapeutic,15.4%,82.1%,2.6%
+17524.0,Carmustine*,28780,Alzheimer disease,Hetio,2,2,1,1,0,Inconclusive,2,0.5,0.5,0.0,Potentially Therapeutic,Potentially Therapeutic,50.0%,50.0%,0.0%
+14178.0,Chlorpromazine ,28780,Alzheimer disease,TxGNN,23,23,1,21,1,Neutral,23,0.043478260869565216,0.9130434782608695,0.043478260869565216,Potentially Therapeutic,Potentially Therapeutic,4.3%,91.3%,4.3%
+15826.0,Dalfampridine,28780,Alzheimer disease,TxGNN,28,28,0,28,0,Neutral,28,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14320.0,Dexamethasone,28780,Alzheimer disease,Hetio,54,54,0,43,11,Neutral,54,0.0,0.7962962962962963,0.2037037037037037,Potentially Adverse Effect,No Positive Sign,0.0%,79.6%,20.4%
+15104.0,Dextromethorphan,28780,Alzheimer disease,CompGCN,200,200,0,199,1,Neutral,200,0.0,0.995,0.005,Neutral Relation,No Positive Sign,0.0%,99.5%,0.5%
+14275.0,Doxorubicin,28780,Alzheimer disease,Hetio,36,36,0,34,2,Neutral,36,0.0,0.9444444444444444,0.05555555555555555,Potentially Adverse Effect,No Positive Sign,0.0%,94.4%,5.6%
+15425.0,Doxycycline,28780,Alzheimer disease,Hetio,90,90,6,82,2,Neutral,90,0.06666666666666667,0.9111111111111111,0.022222222222222223,Potentially Therapeutic,Potentially Therapeutic,6.7%,91.1%,2.2%
+14831.0,Droxidopa,28780,Alzheimer disease,TxGNN,6,6,3,3,0,Inconclusive,6,0.5,0.5,0.0,Potentially Therapeutic,Potentially Therapeutic,50.0%,50.0%,0.0%
+14499.0,Elexacaftor,28780,Alzheimer disease,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15180.0,Fusidic acid,28780,Alzheimer disease,Hetio,3,3,0,3,0,Neutral,3,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14952.0,Haloperidol,28780,Alzheimer disease,CompGCN,30,30,1,24,5,Neutral,30,0.03333333333333333,0.8,0.16666666666666666,Potentially Adverse Effect,Potentially Therapeutic,3.3%,80.0%,16.7%
+15412.0,Histamine,28780,Alzheimer disease,Hetio,61,61,1,60,0,Neutral,61,0.01639344262295082,0.9836065573770492,0.0,Potentially Therapeutic,Potentially Therapeutic,1.6%,98.4%,0.0%
+14028.0,Hydrocortisone,28780,Alzheimer disease,Hetio,142,142,0,134,8,Neutral,142,0.0,0.9436619718309859,0.056338028169014086,Potentially Adverse Effect,No Positive Sign,0.0%,94.4%,5.6%
+14042.0,Hydrocortisone acetate,28780,Alzheimer disease,Hetio,1,1,0,0,1,Negative,1,0.0,0.0,1.0,Potentially Adverse Effect,No Positive Sign,0.0%,0.0%,100.0%
+14452.0,Istradefylline ,28780,Alzheimer disease,TxGNN,4,4,2,1,1,Likely Positive,4,0.5,0.25,0.25,Potentially Therapeutic,Potentially Therapeutic,50.0%,25.0%,25.0%
+14487.0,Magnesium,28780,Alzheimer disease,CompGCN,200,200,6,193,1,Neutral,200,0.03,0.965,0.005,Potentially Therapeutic,Potentially Therapeutic,3.0%,96.5%,0.5%
+15818.0,Memantine,28780,Alzheimer disease,CompGCN,200,200,38,154,8,Neutral,200,0.19,0.77,0.04,Potentially Therapeutic,Potentially Therapeutic,19.0%,77.0%,4.0%
+14269.0,Methylprednisolone,28780,Alzheimer disease,Hetio,8,8,0,7,1,Neutral,8,0.0,0.875,0.125,Potentially Adverse Effect,No Positive Sign,0.0%,87.5%,12.5%
+15914.0,Minocycline,28780,Alzheimer disease,CompGCN,24,24,8,14,2,Inconclusive,24,0.3333333333333333,0.5833333333333334,0.08333333333333333,Potentially Therapeutic,Potentially Therapeutic,33.3%,58.3%,8.3%
+14238.0,Naproxen,28780,Alzheimer disease,Hetio,37,37,2,28,7,Neutral,37,0.05405405405405406,0.7567567567567568,0.1891891891891892,Potentially Adverse Effect,Potentially Therapeutic,5.4%,75.7%,18.9%
+14861.0,Neostigmine,28780,Alzheimer disease,CompGCN,5,5,1,4,0,Neutral,5,0.2,0.8,0.0,Potentially Therapeutic,Potentially Therapeutic,20.0%,80.0%,0.0%
+14843.0,Nizatidine,28780,Alzheimer disease,CompGCN,1,1,0,0,1,Negative,1,0.0,0.0,1.0,Potentially Adverse Effect,No Positive Sign,0.0%,0.0%,100.0%
+15322.0,Norfloxacin,28780,Alzheimer disease,Hetio,10,10,0,10,0,Neutral,10,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15326.0,Ofloxacin,28780,Alzheimer disease,Hetio,8,8,0,8,0,Neutral,8,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15036.0,Olaparib,28780,Alzheimer disease,Hetio,2,2,0,2,0,Neutral,2,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14792.0,Paclitaxel,28780,Alzheimer disease,Hetio,42,42,0,41,1,Neutral,42,0.0,0.9761904761904762,0.023809523809523808,Potentially Adverse Effect,No Positive Sign,0.0%,97.6%,2.4%
+15001.0,Paliperidone,28780,Alzheimer disease,CompGCN,4,4,0,4,0,Neutral,4,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+20300.0,Perazine,28780,Alzheimer disease,CompGCN,7,7,0,7,0,Neutral,7,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15127.0,Perphenazine,28780,Alzheimer disease,CompGCN,2,2,0,2,0,Neutral,2,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14993.0,Phenobarbital,28780,Alzheimer disease,CompGCN,8,8,0,8,0,Neutral,8,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14141.0,Phenytoin,28780,Alzheimer disease,CompGCN,8,8,0,7,1,Neutral,8,0.0,0.875,0.125,Potentially Adverse Effect,No Positive Sign,0.0%,87.5%,12.5%
+17270.0,Pimavanserin ,28780,Alzheimer disease,TxGNN,8,8,1,7,0,Neutral,8,0.125,0.875,0.0,Potentially Therapeutic,Potentially Therapeutic,12.5%,87.5%,0.0%
+14988.0,Pimozide,28780,Alzheimer disease,CompGCN,3,3,0,3,0,Neutral,3,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14371.0,Pirfenidone,28780,Alzheimer disease,TxGNN,2,2,0,2,0,Neutral,2,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+20568.0,Polidocanol,28780,Alzheimer disease,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14030.0,Prednisolone,28780,Alzheimer disease,Hetio,16,16,0,16,0,Neutral,16,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14024.0,Prednisone,28780,Alzheimer disease,Hetio,7,7,0,6,1,Neutral,7,0.0,0.8571428571428571,0.14285714285714285,Potentially Adverse Effect,No Positive Sign,0.0%,85.7%,14.3%
+15311.0,Primidone,28780,Alzheimer disease,CompGCN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14852.0,Procainamide,28780,Alzheimer disease,CompGCN,2,2,0,2,0,Neutral,2,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+17170.0,Pyridostigmine,28780,Alzheimer disease,CompGCN,2,2,0,2,0,Neutral,2,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15308.0,Riluzole,28780,Alzheimer disease,CompGCN,7,7,2,5,0,Neutral,7,0.2857142857142857,0.7142857142857143,0.0,Potentially Therapeutic,Potentially Therapeutic,28.6%,71.4%,0.0%
+15291.0,Ropinirole,28780,Alzheimer disease,CompGCN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14904.0,Safinamide ,28780,Alzheimer disease,TxGNN,2,2,0,2,0,Neutral,2,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+20652.0,Sivelestat,28780,Alzheimer disease,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+20500.0,Succinimide,28780,Alzheimer disease,TxGNN,3,3,0,3,0,Neutral,3,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14208.0,Testosterone,28780,Alzheimer disease,Hetio,103,103,5,97,1,Neutral,103,0.04854368932038835,0.941747572815534,0.009708737864077669,Potentially Therapeutic,Potentially Therapeutic,4.9%,94.2%,1.0%
+15185.0,Tetrabenazine,28780,Alzheimer disease,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15772.0,Tolcapone,28780,Alzheimer disease,TxGNN,3,3,0,3,0,Neutral,3,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14875.0,Tretamine,28780,Alzheimer disease,CompGCN,194,194,0,194,0,Neutral,194,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14875.0,Tretamine,28780,Alzheimer disease,Hetio,194,194,0,194,0,Neutral,194,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14023.0,Triamcinolone,28780,Alzheimer disease,Hetio,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15679.0,Vinpocetine ,28780,Alzheimer disease,TxGNN,8,8,0,8,0,Neutral,8,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15099.0,Zolpidem,28780,Alzheimer disease,CompGCN,3,3,0,1,2,Negative,3,0.0,0.3333333333333333,0.6666666666666666,Potentially Adverse Effect,No Positive Sign,0.0%,33.3%,66.7%
+15399.0,Acefylline,99214,cardiomyopathy due to anthracyclines,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+16036.0,Acetylcysteine,99214,cardiomyopathy due to anthracyclines,CompGCN,128,128,11,113,4,Neutral,128,0.0859375,0.8828125,0.03125,Potentially Therapeutic,Potentially Therapeutic,8.6%,88.3%,3.1%
+16219.0,Alprostadil,99214,cardiomyopathy due to anthracyclines,CompGCN,11,11,0,11,0,Neutral,11,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14302.0,Amiodarone,99214,cardiomyopathy due to anthracyclines,CompGCN,200,200,0,185,15,Neutral,200,0.0,0.925,0.075,Potentially Adverse Effect,No Positive Sign,0.0%,92.5%,7.5%
+14302.0,Amiodarone,99214,cardiomyopathy due to anthracyclines,eAICTable1only,200,200,0,185,15,Neutral,200,0.0,0.925,0.075,Potentially Adverse Effect,No Positive Sign,0.0%,92.5%,7.5%
+17222.0,Amrinone,99214,cardiomyopathy due to anthracyclines,eAICTable1only,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+19882.0,Anisomycin,99214,cardiomyopathy due to anthracyclines,eAICTable1only,1,1,0,0,1,Negative,1,0.0,0.0,1.0,Potentially Adverse Effect,No Positive Sign,0.0%,0.0%,100.0%
+15160.0,Arformoterol,99214,cardiomyopathy due to anthracyclines,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14128.0,Ascorbic acid,99214,cardiomyopathy due to anthracyclines,CompGCN,64,64,6,56,2,Neutral,64,0.09375,0.875,0.03125,Potentially Therapeutic,Potentially Therapeutic,9.4%,87.5%,3.1%
+14783.0,Caffeine,99214,cardiomyopathy due to anthracyclines,CompGCN,59,59,0,49,10,Neutral,59,0.0,0.8305084745762712,0.1694915254237288,Potentially Adverse Effect,No Positive Sign,0.0%,83.1%,16.9%
+14956.0,Carbamazepine,99214,cardiomyopathy due to anthracyclines,CompGCN,6,6,0,6,0,Neutral,6,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14956.0,Carbamazepine,99214,cardiomyopathy due to anthracyclines,eAICTable1only,6,6,0,6,0,Neutral,6,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14653.0,Choline,99214,cardiomyopathy due to anthracyclines,CompGCN,36,36,0,36,0,Neutral,36,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14991.0,Cilostazol,99214,cardiomyopathy due to anthracyclines,TxGNN,6,6,1,5,0,Neutral,6,0.16666666666666666,0.8333333333333334,0.0,Potentially Therapeutic,Potentially Therapeutic,16.7%,83.3%,0.0%
+14186.0,Cisplatin,99214,cardiomyopathy due to anthracyclines,CompGCN,40,40,0,31,9,Neutral,40,0.0,0.775,0.225,Potentially Adverse Effect,No Positive Sign,0.0%,77.5%,22.5%
+14686.0,Clomifene,99214,cardiomyopathy due to anthracyclines,CompGCN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14198.0,Clonidine,99214,cardiomyopathy due to anthracyclines,eAICTable1only,14,14,0,13,1,Neutral,14,0.0,0.9285714285714286,0.07142857142857142,Potentially Adverse Effect,No Positive Sign,0.0%,92.9%,7.1%
+14934.0,Cyclosporine,99214,cardiomyopathy due to anthracyclines,CompGCN,167,167,3,161,3,Neutral,167,0.017964071856287425,0.9640718562874252,0.017964071856287425,Potentially Therapeutic,Potentially Therapeutic,1.8%,96.4%,1.8%
+16281.0,Cysteine,99214,cardiomyopathy due to anthracyclines,CompGCN,200,200,3,197,0,Neutral,200,0.015,0.985,0.0,Potentially Therapeutic,Potentially Therapeutic,1.5%,98.5%,0.0%
+14780.0,Cytarabine,99214,cardiomyopathy due to anthracyclines,CompGCN,27,27,0,22,5,Neutral,27,0.0,0.8148148148148148,0.18518518518518517,Potentially Adverse Effect,No Positive Sign,0.0%,81.5%,18.5%
+14794.0,Dasatinib,99214,cardiomyopathy due to anthracyclines,CompGCN,11,11,1,10,0,Neutral,11,0.09090909090909091,0.9090909090909091,0.0,Potentially Therapeutic,Potentially Therapeutic,9.1%,90.9%,0.0%
+14794.0,Dasatinib,99214,cardiomyopathy due to anthracyclines,eAICTable2,11,11,1,10,0,Neutral,11,0.09090909090909091,0.9090909090909091,0.0,Potentially Therapeutic,Potentially Therapeutic,9.1%,90.9%,0.0%
+14320.0,Dexamethasone,99214,cardiomyopathy due to anthracyclines,CompGCN,115,115,1,103,11,Neutral,115,0.008695652173913044,0.8956521739130435,0.09565217391304348,Potentially Adverse Effect,Potentially Therapeutic,0.9%,89.6%,9.6%
+17653.0,Dexrazoxane,99214,cardiomyopathy due to anthracyclines,eAICTable2,200,200,144,53,3,Positive,200,0.72,0.265,0.015,Potentially Therapeutic,Potentially Therapeutic,72.0%,26.5%,1.5%
+15840.0,Digoxin,99214,cardiomyopathy due to anthracyclines,CompGCN,200,200,2,188,10,Neutral,200,0.01,0.94,0.05,Potentially Adverse Effect,Potentially Therapeutic,1.0%,94.0%,5.0%
+15840.0,Digoxin,99214,cardiomyopathy due to anthracyclines,eAICTable2,200,200,2,188,10,Neutral,200,0.01,0.94,0.05,Potentially Adverse Effect,Potentially Therapeutic,1.0%,94.0%,5.0%
+21505.0,Emetine,99214,cardiomyopathy due to anthracyclines,eAICTable1only,2,2,0,1,1,Inconclusive,2,0.0,0.5,0.5,Potentially Adverse Effect,No Positive Sign,0.0%,50.0%,50.0%
+15263.0,Enasidenib,99214,cardiomyopathy due to anthracyclines,TxGNN,2,2,0,2,0,Neutral,2,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+16028.0,Eribulin,99214,cardiomyopathy due to anthracyclines,TxGNN,2,2,0,2,0,Neutral,2,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14936.0,Erythromycin,99214,cardiomyopathy due to anthracyclines,CompGCN,5,5,0,5,0,Neutral,5,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+17537.0,Erythropoietin,99214,cardiomyopathy due to anthracyclines,CompGCN,68,68,7,59,2,Neutral,68,0.10294117647058823,0.8676470588235294,0.029411764705882353,Potentially Therapeutic,Potentially Therapeutic,10.3%,86.8%,2.9%
+16347.0,Ferrous fumarate,99214,cardiomyopathy due to anthracyclines,CompGCN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14272.0,Formoterol,99214,cardiomyopathy due to anthracyclines,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15180.0,Fusidic acid,99214,cardiomyopathy due to anthracyclines,CompGCN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+20263.0,Ganciclovir,99214,cardiomyopathy due to anthracyclines,CompGCN,9,9,0,9,0,Neutral,9,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14591.0,Glycine,99214,cardiomyopathy due to anthracyclines,CompGCN,129,129,1,127,1,Neutral,129,0.007751937984496124,0.9844961240310077,0.007751937984496124,Potentially Therapeutic,Potentially Therapeutic,0.8%,98.4%,0.8%
+15412.0,Histamine,99214,cardiomyopathy due to anthracyclines,CompGCN,16,16,0,16,0,Neutral,16,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14276.0,Hydrochlorothiazide,99214,cardiomyopathy due to anthracyclines,CompGCN,11,11,0,11,0,Neutral,11,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14207.0,Imatinib,99214,cardiomyopathy due to anthracyclines,CompGCN,25,25,0,18,7,Neutral,25,0.0,0.72,0.28,Potentially Adverse Effect,No Positive Sign,0.0%,72.0%,28.0%
+15288.0,Interferon alfa-2b,99214,cardiomyopathy due to anthracyclines,TxGNN,2,2,0,0,2,Negative,2,0.0,0.0,1.0,Potentially Adverse Effect,No Positive Sign,0.0%,0.0%,100.0%
+15284.0,Interferon beta-1a,99214,cardiomyopathy due to anthracyclines,TxGNN,1,1,0,0,1,Negative,1,0.0,0.0,1.0,Potentially Adverse Effect,No Positive Sign,0.0%,0.0%,100.0%
+15285.0,Interferon beta-1b,99214,cardiomyopathy due to anthracyclines,TxGNN,4,4,0,3,1,Neutral,4,0.0,0.75,0.25,Potentially Adverse Effect,No Positive Sign,0.0%,75.0%,25.0%
+15739.0,Ivosidenib,99214,cardiomyopathy due to anthracyclines,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14281.0,Ketoconazole,99214,cardiomyopathy due to anthracyclines,CompGCN,6,6,0,6,0,Neutral,6,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15254.0,Levosalbutamol,99214,cardiomyopathy due to anthracyclines,TxGNN,15,15,0,12,3,Neutral,15,0.0,0.8,0.2,Potentially Adverse Effect,No Positive Sign,0.0%,80.0%,20.0%
+14060.0,Levothyroxine,99214,cardiomyopathy due to anthracyclines,CompGCN,167,167,0,159,8,Neutral,167,0.0,0.9520958083832335,0.04790419161676647,Potentially Adverse Effect,No Positive Sign,0.0%,95.2%,4.8%
+14940.0,Lidocaine,99214,cardiomyopathy due to anthracyclines,CompGCN,65,65,0,61,4,Neutral,65,0.0,0.9384615384615385,0.06153846153846154,Potentially Adverse Effect,No Positive Sign,0.0%,93.8%,6.2%
+61758.0,Lithium,99214,cardiomyopathy due to anthracyclines,eAICTable1only,53,53,1,42,10,Neutral,53,0.018867924528301886,0.7924528301886793,0.18867924528301888,Potentially Adverse Effect,Potentially Therapeutic,1.9%,79.2%,18.9%
+15125.0,Loperamide,99214,cardiomyopathy due to anthracyclines,eAICTable2,9,9,0,5,4,Inconclusive,9,0.0,0.5555555555555556,0.4444444444444444,Potentially Adverse Effect,No Positive Sign,0.0%,55.6%,44.4%
+16588.0,Metformin,99214,cardiomyopathy due to anthracyclines,eAICTable2,156,156,4,152,0,Neutral,156,0.02564102564102564,0.9743589743589743,0.0,Potentially Therapeutic,Potentially Therapeutic,2.6%,97.4%,0.0%
+14194.0,Methotrexate,99214,cardiomyopathy due to anthracyclines,CompGCN,57,57,0,54,3,Neutral,57,0.0,0.9473684210526315,0.05263157894736842,Potentially Adverse Effect,No Positive Sign,0.0%,94.7%,5.3%
+15018.0,Midostaurin,99214,cardiomyopathy due to anthracyclines,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14150.0,Morphine,99214,cardiomyopathy due to anthracyclines,CompGCN,22,22,0,22,0,Neutral,22,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15440.0,Nimodipine,99214,cardiomyopathy due to anthracyclines,eAICTable2,2,2,0,2,0,Neutral,2,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14985.0,Nitrendipine,99214,cardiomyopathy due to anthracyclines,eAICTable1only,5,5,0,3,2,Neutral,5,0.0,0.6,0.4,Potentially Adverse Effect,No Positive Sign,0.0%,60.0%,40.0%
+16352.0,Norepinephrine,99214,cardiomyopathy due to anthracyclines,TxGNN,200,200,0,189,11,Neutral,200,0.0,0.945,0.055,Potentially Adverse Effect,No Positive Sign,0.0%,94.5%,5.5%
+17626.0,Ouabain,99214,cardiomyopathy due to anthracyclines,eAICTable1only,23,23,0,22,1,Neutral,23,0.0,0.9565217391304348,0.043478260869565216,Potentially Adverse Effect,No Positive Sign,0.0%,95.7%,4.3%
+20457.0,Ozagrel,99214,cardiomyopathy due to anthracyclines,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14792.0,Paclitaxel,99214,cardiomyopathy due to anthracyclines,CompGCN,46,46,0,36,10,Neutral,46,0.0,0.782608695652174,0.21739130434782608,Potentially Adverse Effect,No Positive Sign,0.0%,78.3%,21.7%
+15205.0,Pazopanib,99214,cardiomyopathy due to anthracyclines,CompGCN,8,8,0,1,7,Negative,8,0.0,0.125,0.875,Potentially Adverse Effect,No Positive Sign,0.0%,12.5%,87.5%
+20239.0,Penicillamine,99214,cardiomyopathy due to anthracyclines,CompGCN,4,4,0,4,0,Neutral,4,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14993.0,Phenobarbital,99214,cardiomyopathy due to anthracyclines,CompGCN,5,5,0,5,0,Neutral,5,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14265.0,Phenprocoumon,99214,cardiomyopathy due to anthracyclines,TxGNN,3,3,0,2,1,Neutral,3,0.0,0.6666666666666666,0.3333333333333333,Potentially Adverse Effect,No Positive Sign,0.0%,66.7%,33.3%
+14141.0,Phenytoin,99214,cardiomyopathy due to anthracyclines,CompGCN,7,7,1,6,0,Neutral,7,0.14285714285714285,0.8571428571428571,0.0,Potentially Therapeutic,Potentially Therapeutic,14.3%,85.7%,0.0%
+17407.0,Pravastatin,99214,cardiomyopathy due to anthracyclines,CompGCN,8,8,0,7,1,Neutral,8,0.0,0.875,0.125,Potentially Adverse Effect,No Positive Sign,0.0%,87.5%,12.5%
+17407.0,Pravastatin,99214,cardiomyopathy due to anthracyclines,eAICTable2,8,8,0,7,1,Neutral,8,0.0,0.875,0.125,Potentially Adverse Effect,No Positive Sign,0.0%,87.5%,12.5%
+19883.0,Puromycin,99214,cardiomyopathy due to anthracyclines,eAICTable2,2,2,0,2,0,Neutral,2,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14359.0,Quercetin,99214,cardiomyopathy due to anthracyclines,eAICTable2,55,55,8,46,1,Neutral,55,0.14545454545454545,0.8363636363636363,0.01818181818181818,Potentially Therapeutic,Potentially Therapeutic,14.5%,83.6%,1.8%
+14667.0,Risedronic acid,99214,cardiomyopathy due to anthracyclines,CompGCN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14184.0,Ritonavir,99214,cardiomyopathy due to anthracyclines,CompGCN,12,12,0,8,4,Neutral,12,0.0,0.6666666666666666,0.3333333333333333,Potentially Adverse Effect,No Positive Sign,0.0%,66.7%,33.3%
+14263.0,Salmeterol,99214,cardiomyopathy due to anthracyclines,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14975.0,Sirolimus,99214,cardiomyopathy due to anthracyclines,eAICTable2,200,200,4,190,6,Neutral,200,0.02,0.95,0.03,Potentially Adverse Effect,Potentially Therapeutic,2.0%,95.0%,3.0%
+14168.0,Spironolactone,99214,cardiomyopathy due to anthracyclines,CompGCN,164,164,6,157,1,Neutral,164,0.036585365853658534,0.9573170731707317,0.006097560975609756,Potentially Therapeutic,Potentially Therapeutic,3.7%,95.7%,0.6%
+14168.0,Spironolactone,99214,cardiomyopathy due to anthracyclines,eAICTable2,164,164,6,157,1,Neutral,164,0.036585365853658534,0.9573170731707317,0.006097560975609756,Potentially Therapeutic,Potentially Therapeutic,3.7%,95.7%,0.6%
+20336.0,Temozolomide,99214,cardiomyopathy due to anthracyclines,eAICTable1only,25,25,0,25,0,Neutral,25,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14784.0,Theophylline,99214,cardiomyopathy due to anthracyclines,CompGCN,13,13,0,12,1,Neutral,13,0.0,0.9230769230769231,0.07692307692307693,Potentially Adverse Effect,No Positive Sign,0.0%,92.3%,7.7%
+14784.0,Theophylline,99214,cardiomyopathy due to anthracyclines,TxGNN,13,13,0,12,1,Neutral,13,0.0,0.9230769230769231,0.07692307692307693,Potentially Adverse Effect,No Positive Sign,0.0%,92.3%,7.7%
+14868.0,Thiotepa,99214,cardiomyopathy due to anthracyclines,CompGCN,2,2,0,2,0,Neutral,2,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14399.0,Ticagrelor,99214,cardiomyopathy due to anthracyclines,TxGNN,13,13,0,13,0,Neutral,13,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15586.0,Tranilast,99214,cardiomyopathy due to anthracyclines,TxGNN,16,16,1,15,0,Neutral,16,0.0625,0.9375,0.0,Potentially Therapeutic,Potentially Therapeutic,6.2%,93.8%,0.0%
+14229.0,Tretinoin,99214,cardiomyopathy due to anthracyclines,CompGCN,58,58,2,52,4,Neutral,58,0.034482758620689655,0.896551724137931,0.06896551724137931,Potentially Adverse Effect,Potentially Therapeutic,3.4%,89.7%,6.9%
+14913.0,Trifluoperazine,99214,cardiomyopathy due to anthracyclines,eAICTable2,2,2,0,1,1,Inconclusive,2,0.0,0.5,0.5,Potentially Adverse Effect,No Positive Sign,0.0%,50.0%,50.0%
+17568.0,Tulobuterol,99214,cardiomyopathy due to anthracyclines,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14153.0,Valproic acid,99214,cardiomyopathy due to anthracyclines,CompGCN,28,28,0,23,5,Neutral,28,0.0,0.8214285714285714,0.17857142857142858,Potentially Adverse Effect,No Positive Sign,0.0%,82.1%,17.9%
+14153.0,Valproic acid,99214,cardiomyopathy due to anthracyclines,eAICTable2,28,28,0,23,5,Neutral,28,0.0,0.8214285714285714,0.17857142857142858,Potentially Adverse Effect,No Positive Sign,0.0%,82.1%,17.9%
+14974.0,Vardenafil,99214,cardiomyopathy due to anthracyclines,CompGCN,7,7,1,6,0,Neutral,7,0.14285714285714285,0.8571428571428571,0.0,Potentially Therapeutic,Potentially Therapeutic,14.3%,85.7%,0.0%
+14212.0,Verapamil,99214,cardiomyopathy due to anthracyclines,eAICTable1only,107,107,1,102,4,Neutral,107,0.009345794392523364,0.9532710280373832,0.037383177570093455,Potentially Adverse Effect,Potentially Therapeutic,0.9%,95.3%,3.7%
+14212.0,Verapamil,99214,cardiomyopathy due to anthracyclines,eAICTable1only,175,175,1,170,4,Neutral,175,0.005714285714285714,0.9714285714285714,0.022857142857142857,Potentially Adverse Effect,Potentially Therapeutic,0.6%,97.1%,2.3%
+14955.0,Vincristine,99214,cardiomyopathy due to anthracyclines,CompGCN,34,34,1,33,0,Neutral,34,0.029411764705882353,0.9705882352941176,0.0,Potentially Therapeutic,Potentially Therapeutic,2.9%,97.1%,0.0%
+14226.0,Zileuton,99214,cardiomyopathy due to anthracyclines,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15399.0,Acefylline,99367,doxorubicin induced cardiomyopathy,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+16036.0,Acetylcysteine,99367,doxorubicin induced cardiomyopathy,CompGCN,123,123,8,112,3,Neutral,123,0.06504065040650407,0.9105691056910569,0.024390243902439025,Potentially Therapeutic,Potentially Therapeutic,6.5%,91.1%,2.4%
+16219.0,Alprostadil,99367,doxorubicin induced cardiomyopathy,CompGCN,11,11,0,11,0,Neutral,11,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14302.0,Amiodarone,99367,doxorubicin induced cardiomyopathy,eAICTable1only,200,200,0,188,12,Neutral,200,0.0,0.94,0.06,Potentially Adverse Effect,No Positive Sign,0.0%,94.0%,6.0%
+17222.0,Amrinone,99367,doxorubicin induced cardiomyopathy,eAICTable1only,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+19882.0,Anisomycin,99367,doxorubicin induced cardiomyopathy,eAICTable1only,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15160.0,Arformoterol,99367,doxorubicin induced cardiomyopathy,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14128.0,Ascorbic acid,99367,doxorubicin induced cardiomyopathy,CompGCN,60,60,6,51,3,Neutral,60,0.1,0.85,0.05,Potentially Therapeutic,Potentially Therapeutic,10.0%,85.0%,5.0%
+14783.0,Caffeine,99367,doxorubicin induced cardiomyopathy,CompGCN,58,58,0,54,4,Neutral,58,0.0,0.9310344827586207,0.06896551724137931,Potentially Adverse Effect,No Positive Sign,0.0%,93.1%,6.9%
+17987.0,Calcium chloride,99367,doxorubicin induced cardiomyopathy,CompGCN,3,3,0,3,0,Neutral,3,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14956.0,Carbamazepine,99367,doxorubicin induced cardiomyopathy,CompGCN,6,6,0,6,0,Neutral,6,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14956.0,Carbamazepine,99367,doxorubicin induced cardiomyopathy,eAICTable1only,6,6,0,6,0,Neutral,6,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+17524.0,Carmustine,99367,doxorubicin induced cardiomyopathy,CompGCN,4,4,0,2,2,Inconclusive,4,0.0,0.5,0.5,Potentially Adverse Effect,No Positive Sign,0.0%,50.0%,50.0%
+14653.0,Choline,99367,doxorubicin induced cardiomyopathy,CompGCN,36,36,0,36,0,Neutral,36,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14991.0,Cilostazol,99367,doxorubicin induced cardiomyopathy,TxGNN,6,6,1,5,0,Neutral,6,0.16666666666666666,0.8333333333333334,0.0,Potentially Therapeutic,Potentially Therapeutic,16.7%,83.3%,0.0%
+14186.0,Cisplatin,99367,doxorubicin induced cardiomyopathy,CompGCN,34,34,0,32,2,Neutral,34,0.0,0.9411764705882353,0.058823529411764705,Potentially Adverse Effect,No Positive Sign,0.0%,94.1%,5.9%
+14686.0,Clomifene,99367,doxorubicin induced cardiomyopathy,CompGCN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14198.0,Clonidine,99367,doxorubicin induced cardiomyopathy,eAICTable1only,14,14,0,14,0,Neutral,14,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14934.0,Cyclosporine,99367,doxorubicin induced cardiomyopathy,CompGCN,166,166,2,162,2,Neutral,166,0.012048192771084338,0.9759036144578314,0.012048192771084338,Potentially Therapeutic,Potentially Therapeutic,1.2%,97.6%,1.2%
+16281.0,Cysteine,99367,doxorubicin induced cardiomyopathy,CompGCN,200,200,0,200,0,Neutral,200,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14780.0,Cytarabine,99367,doxorubicin induced cardiomyopathy,CompGCN,21,21,0,19,2,Neutral,21,0.0,0.9047619047619048,0.09523809523809523,Potentially Adverse Effect,No Positive Sign,0.0%,90.5%,9.5%
+14794.0,Dasatinib,99367,doxorubicin induced cardiomyopathy,CompGCN,11,11,0,10,1,Neutral,11,0.0,0.9090909090909091,0.09090909090909091,Potentially Adverse Effect,No Positive Sign,0.0%,90.9%,9.1%
+14794.0,Dasatinib,99367,doxorubicin induced cardiomyopathy,eAICTable2,11,11,0,10,1,Neutral,11,0.0,0.9090909090909091,0.09090909090909091,Potentially Adverse Effect,No Positive Sign,0.0%,90.9%,9.1%
+14789.0,Daunorubicin,99367,doxorubicin induced cardiomyopathy,CompGCN,77,77,0,66,11,Neutral,77,0.0,0.8571428571428571,0.14285714285714285,Potentially Adverse Effect,No Positive Sign,0.0%,85.7%,14.3%
+14320.0,Dexamethasone,99367,doxorubicin induced cardiomyopathy,CompGCN,115,115,1,104,10,Neutral,115,0.008695652173913044,0.9043478260869565,0.08695652173913043,Potentially Adverse Effect,Potentially Therapeutic,0.9%,90.4%,8.7%
+17653.0,Dexrazoxane,99367,doxorubicin induced cardiomyopathy,eAICTable2,99,99,69,29,1,Positive,99,0.696969696969697,0.29292929292929293,0.010101010101010102,Potentially Therapeutic,Potentially Therapeutic,69.7%,29.3%,1.0%
+15840.0,Digoxin,99367,doxorubicin induced cardiomyopathy,CompGCN,200,200,1,194,5,Neutral,200,0.005,0.97,0.025,Potentially Adverse Effect,Potentially Therapeutic,0.5%,97.0%,2.5%
+15840.0,Digoxin,99367,doxorubicin induced cardiomyopathy,eAICTable2,200,200,1,194,5,Neutral,200,0.005,0.97,0.025,Potentially Adverse Effect,Potentially Therapeutic,0.5%,97.0%,2.5%
+21505.0,Emetine,99367,doxorubicin induced cardiomyopathy,eAICTable1only,2,2,0,2,0,Neutral,2,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15263.0,Enasidenib,99367,doxorubicin induced cardiomyopathy,TxGNN,2,2,0,2,0,Neutral,2,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14560.0,Ergocalciferol,99367,doxorubicin induced cardiomyopathy,CompGCN,3,3,0,3,0,Neutral,3,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+16028.0,Eribulin,99367,doxorubicin induced cardiomyopathy,TxGNN,2,2,0,2,0,Neutral,2,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14936.0,Erythromycin,99367,doxorubicin induced cardiomyopathy,CompGCN,5,5,0,5,0,Neutral,5,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+17537.0,Erythropoietin,99367,doxorubicin induced cardiomyopathy,CompGCN,67,67,6,59,2,Neutral,67,0.08955223880597014,0.8805970149253731,0.029850746268656716,Potentially Therapeutic,Potentially Therapeutic,9.0%,88.1%,3.0%
+16347.0,Ferrous fumarate,99367,doxorubicin induced cardiomyopathy,CompGCN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14272.0,Formoterol,99367,doxorubicin induced cardiomyopathy,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15180.0,Fusidic acid,99367,doxorubicin induced cardiomyopathy,CompGCN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+20263.0,Ganciclovir,99367,doxorubicin induced cardiomyopathy,CompGCN,9,9,0,9,0,Neutral,9,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14591.0,Glycine,99367,doxorubicin induced cardiomyopathy,CompGCN,129,129,1,127,1,Neutral,129,0.007751937984496124,0.9844961240310077,0.007751937984496124,Potentially Therapeutic,Potentially Therapeutic,0.8%,98.4%,0.8%
+15412.0,Histamine,99367,doxorubicin induced cardiomyopathy,CompGCN,14,14,0,14,0,Neutral,14,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14276.0,Hydrochlorothiazide,99367,doxorubicin induced cardiomyopathy,CompGCN,11,11,0,11,0,Neutral,11,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14207.0,Imatinib,99367,doxorubicin induced cardiomyopathy,CompGCN,25,25,0,20,5,Neutral,25,0.0,0.8,0.2,Potentially Adverse Effect,No Positive Sign,0.0%,80.0%,20.0%
+15288.0,Interferon alfa-2b,99367,doxorubicin induced cardiomyopathy,TxGNN,2,2,0,0,2,Negative,2,0.0,0.0,1.0,Potentially Adverse Effect,No Positive Sign,0.0%,0.0%,100.0%
+15284.0,Interferon beta-1a,99367,doxorubicin induced cardiomyopathy,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15285.0,Interferon beta-1b,99367,doxorubicin induced cardiomyopathy,TxGNN,4,4,0,4,0,Neutral,4,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15739.0,Ivosidenib,99367,doxorubicin induced cardiomyopathy,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14281.0,Ketoconazole,99367,doxorubicin induced cardiomyopathy,CompGCN,6,6,0,6,0,Neutral,6,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15254.0,Levosalbutamol,99367,doxorubicin induced cardiomyopathy,TxGNN,15,15,0,15,0,Neutral,15,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14060.0,Levothyroxine,99367,doxorubicin induced cardiomyopathy,CompGCN,162,162,0,157,5,Neutral,162,0.0,0.9691358024691358,0.030864197530864196,Potentially Adverse Effect,No Positive Sign,0.0%,96.9%,3.1%
+14940.0,Lidocaine,99367,doxorubicin induced cardiomyopathy,CompGCN,65,65,0,61,4,Neutral,65,0.0,0.9384615384615385,0.06153846153846154,Potentially Adverse Effect,No Positive Sign,0.0%,93.8%,6.2%
+61758.0,Lithium,99367,doxorubicin induced cardiomyopathy,eAICTable1only,52,52,0,44,8,Neutral,52,0.0,0.8461538461538461,0.15384615384615385,Potentially Adverse Effect,No Positive Sign,0.0%,84.6%,15.4%
+15125.0,Loperamide,99367,doxorubicin induced cardiomyopathy,eAICTable2,9,9,0,5,4,Inconclusive,9,0.0,0.5555555555555556,0.4444444444444444,Potentially Adverse Effect,No Positive Sign,0.0%,55.6%,44.4%
+16588.0,Metformin,99367,doxorubicin induced cardiomyopathy,eAICTable2,153,153,2,151,0,Neutral,153,0.013071895424836602,0.9869281045751634,0.0,Potentially Therapeutic,Potentially Therapeutic,1.3%,98.7%,0.0%
+14194.0,Methotrexate,99367,doxorubicin induced cardiomyopathy,CompGCN,54,54,0,52,2,Neutral,54,0.0,0.9629629629629629,0.037037037037037035,Potentially Adverse Effect,No Positive Sign,0.0%,96.3%,3.7%
+15018.0,Midostaurin,99367,doxorubicin induced cardiomyopathy,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15440.0,Nimodipine,99367,doxorubicin induced cardiomyopathy,eAICTable2,2,2,0,2,0,Neutral,2,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14985.0,Nitrendipine,99367,doxorubicin induced cardiomyopathy,eAICTable1only,5,5,0,3,2,Neutral,5,0.0,0.6,0.4,Potentially Adverse Effect,No Positive Sign,0.0%,60.0%,40.0%
+16352.0,Norepinephrine,99367,doxorubicin induced cardiomyopathy,TxGNN,200,200,0,193,7,Neutral,200,0.0,0.965,0.035,Potentially Adverse Effect,No Positive Sign,0.0%,96.5%,3.5%
+17626.0,Ouabain,99367,doxorubicin induced cardiomyopathy,eAICTable1only,23,23,0,21,2,Neutral,23,0.0,0.9130434782608695,0.08695652173913043,Potentially Adverse Effect,No Positive Sign,0.0%,91.3%,8.7%
+20457.0,Ozagrel,99367,doxorubicin induced cardiomyopathy,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14792.0,Paclitaxel,99367,doxorubicin induced cardiomyopathy,CompGCN,35,35,0,30,5,Neutral,35,0.0,0.8571428571428571,0.14285714285714285,Potentially Adverse Effect,No Positive Sign,0.0%,85.7%,14.3%
+20239.0,Penicillamine,99367,doxorubicin induced cardiomyopathy,CompGCN,4,4,0,4,0,Neutral,4,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14993.0,Phenobarbital,99367,doxorubicin induced cardiomyopathy,CompGCN,4,4,0,4,0,Neutral,4,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14265.0,Phenprocoumon,99367,doxorubicin induced cardiomyopathy,TxGNN,3,3,0,2,1,Neutral,3,0.0,0.6666666666666666,0.3333333333333333,Potentially Adverse Effect,No Positive Sign,0.0%,66.7%,33.3%
+14141.0,Phenytoin,99367,doxorubicin induced cardiomyopathy,CompGCN,7,7,1,6,0,Neutral,7,0.14285714285714285,0.8571428571428571,0.0,Potentially Therapeutic,Potentially Therapeutic,14.3%,85.7%,0.0%
+16085.0,Potassium chloride,99367,doxorubicin induced cardiomyopathy,CompGCN,18,18,0,18,0,Neutral,18,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+17407.0,Pravastatin,99367,doxorubicin induced cardiomyopathy,CompGCN,8,8,0,8,0,Neutral,8,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+17407.0,Pravastatin,99367,doxorubicin induced cardiomyopathy,eAICTable2,8,8,0,8,0,Neutral,8,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+19883.0,Puromycin,99367,doxorubicin induced cardiomyopathy,eAICTable2,2,2,0,2,0,Neutral,2,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14359.0,Quercetin,99367,doxorubicin induced cardiomyopathy,eAICTable2,50,50,6,44,0,Neutral,50,0.12,0.88,0.0,Potentially Therapeutic,Potentially Therapeutic,12.0%,88.0%,0.0%
+14263.0,Salmeterol,99367,doxorubicin induced cardiomyopathy,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14975.0,Sirolimus,99367,doxorubicin induced cardiomyopathy,eAICTable2,200,200,5,193,2,Neutral,200,0.025,0.965,0.01,Potentially Therapeutic,Potentially Therapeutic,2.5%,96.5%,1.0%
+14168.0,Spironolactone,99367,doxorubicin induced cardiomyopathy,CompGCN,162,162,2,158,2,Neutral,162,0.012345679012345678,0.9753086419753086,0.012345679012345678,Potentially Therapeutic,Potentially Therapeutic,1.2%,97.5%,1.2%
+14168.0,Spironolactone,99367,doxorubicin induced cardiomyopathy,eAICTable2,162,162,2,158,2,Neutral,162,0.012345679012345678,0.9753086419753086,0.012345679012345678,Potentially Therapeutic,Potentially Therapeutic,1.2%,97.5%,1.2%
+20336.0,Temozolomide,99367,doxorubicin induced cardiomyopathy,eAICTable1only,24,24,0,24,0,Neutral,24,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14784.0,Theophylline,99367,doxorubicin induced cardiomyopathy,CompGCN,13,13,0,12,1,Neutral,13,0.0,0.9230769230769231,0.07692307692307693,Potentially Adverse Effect,No Positive Sign,0.0%,92.3%,7.7%
+14784.0,Theophylline,99367,doxorubicin induced cardiomyopathy,TxGNN,13,13,0,12,1,Neutral,13,0.0,0.9230769230769231,0.07692307692307693,Potentially Adverse Effect,No Positive Sign,0.0%,92.3%,7.7%
+14868.0,Thiotepa,99367,doxorubicin induced cardiomyopathy,CompGCN,2,2,0,2,0,Neutral,2,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14399.0,Ticagrelor,99367,doxorubicin induced cardiomyopathy,TxGNN,13,13,0,13,0,Neutral,13,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15586.0,Tranilast,99367,doxorubicin induced cardiomyopathy,TxGNN,16,16,1,15,0,Neutral,16,0.0625,0.9375,0.0,Potentially Therapeutic,Potentially Therapeutic,6.2%,93.8%,0.0%
+14229.0,Tretinoin,99367,doxorubicin induced cardiomyopathy,CompGCN,53,53,1,50,2,Neutral,53,0.018867924528301886,0.9433962264150944,0.03773584905660377,Potentially Adverse Effect,Potentially Therapeutic,1.9%,94.3%,3.8%
+14913.0,Trifluoperazine,99367,doxorubicin induced cardiomyopathy,eAICTable2,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+17568.0,Tulobuterol,99367,doxorubicin induced cardiomyopathy,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14153.0,Valproic acid,99367,doxorubicin induced cardiomyopathy,eAICTable2,28,28,0,27,1,Neutral,28,0.0,0.9642857142857143,0.03571428571428571,Potentially Adverse Effect,No Positive Sign,0.0%,96.4%,3.6%
+14974.0,Vardenafil,99367,doxorubicin induced cardiomyopathy,CompGCN,7,7,2,5,0,Neutral,7,0.2857142857142857,0.7142857142857143,0.0,Potentially Therapeutic,Potentially Therapeutic,28.6%,71.4%,0.0%
+14212.0,Verapamil,99367,doxorubicin induced cardiomyopathy,eAICTable1only,140,140,0,137,3,Neutral,140,0.0,0.9785714285714285,0.02142857142857143,Potentially Adverse Effect,No Positive Sign,0.0%,97.9%,2.1%
+14212.0,Verapamil,99367,doxorubicin induced cardiomyopathy,eAICTable1only,140,140,0,137,3,Neutral,140,0.0,0.9785714285714285,0.02142857142857143,Potentially Adverse Effect,No Positive Sign,0.0%,97.9%,2.1%
+14955.0,Vincristine,99367,doxorubicin induced cardiomyopathy,CompGCN,24,24,1,23,0,Neutral,24,0.041666666666666664,0.9583333333333334,0.0,Potentially Therapeutic,Potentially Therapeutic,4.2%,95.8%,0.0%
+14226.0,Zileuton,99367,doxorubicin induced cardiomyopathy,TxGNN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+20211.0,Acetylcarnitine,none,heart failure and Alzheimer disease,CompGCN,13,13,0,12,1,Neutral,13,0.0,0.9230769230769231,0.07692307692307693,Potentially Adverse Effect,No Positive Sign,0.0%,92.3%,7.7%
+14830.0,Amantadine,none,heart failure and Alzheimer disease,CompGCN,4,4,1,3,0,Neutral,4,0.25,0.75,0.0,Potentially Therapeutic,Potentially Therapeutic,25.0%,75.0%,0.0%
+14302.0,Amiodarone,none,heart failure and Alzheimer disease,CompGCN,200,200,8,160,32,Neutral,200,0.04,0.8,0.16,Potentially Adverse Effect,Potentially Therapeutic,4.0%,80.0%,16.0%
+15077.0,Bortezomib,none,heart failure and Alzheimer disease,CompGCN,136,136,8,88,40,Neutral,136,0.058823529411764705,0.6470588235294118,0.29411764705882354,Potentially Adverse Effect,Potentially Therapeutic,5.9%,64.7%,29.4%
+15493.0,Bromocriptine,none,heart failure and Alzheimer disease,CompGCN,113,113,41,68,4,Neutral,113,0.36283185840707965,0.6017699115044248,0.035398230088495575,Potentially Therapeutic,Potentially Therapeutic,36.3%,60.2%,3.5%
+14956.0,Carbamazepine,none,heart failure and Alzheimer disease,CompGCN,14,14,0,9,5,Neutral,14,0.0,0.6428571428571429,0.35714285714285715,Potentially Adverse Effect,No Positive Sign,0.0%,64.3%,35.7%
+17524.0,Carmustine,none,heart failure and Alzheimer disease,CompGCN,8,8,0,5,3,Neutral,8,0.0,0.625,0.375,Potentially Adverse Effect,No Positive Sign,0.0%,62.5%,37.5%
+16793.0,Chlorothiazide,none,heart failure and Alzheimer disease,CompGCN,23,23,7,14,2,Neutral,23,0.30434782608695654,0.6086956521739131,0.08695652173913043,Potentially Therapeutic,Potentially Therapeutic,30.4%,60.9%,8.7%
+14934.0,Cyclosporine,none,heart failure and Alzheimer disease,CompGCN,200,200,4,193,3,Neutral,200,0.02,0.965,0.015,Potentially Therapeutic,Potentially Therapeutic,2.0%,96.5%,1.5%
+14780.0,Cytarabine,none,heart failure and Alzheimer disease,CompGCN,31,31,0,26,5,Neutral,31,0.0,0.8387096774193549,0.16129032258064516,Potentially Adverse Effect,No Positive Sign,0.0%,83.9%,16.1%
+14320.0,Dexamethasone,none,heart failure and Alzheimer disease,CompGCN,200,200,11,161,28,Neutral,200,0.055,0.805,0.14,Potentially Adverse Effect,Potentially Therapeutic,5.5%,80.5%,14.0%
+15840.0,Digoxin,none,heart failure and Alzheimer disease,CompGCN,200,200,48,131,21,Neutral,200,0.24,0.655,0.105,Potentially Therapeutic,Potentially Therapeutic,24.0%,65.5%,10.5%
+15126.0,Donepezil,none,heart failure and Alzheimer disease,CompGCN,28,28,17,11,0,Positive,28,0.6071428571428571,0.39285714285714285,0.0,Potentially Therapeutic,Potentially Therapeutic,60.7%,39.3%,0.0%
+14275.0,Doxorubicin,none,heart failure and Alzheimer disease,CompGCN,200,200,0,42,158,Negative,200,0.0,0.21,0.79,Potentially Adverse Effect,No Positive Sign,0.0%,21.0%,79.0%
+17428.0,Etidronic acid,none,heart failure and Alzheimer disease,CompGCN,10,10,0,8,2,Neutral,10,0.0,0.8,0.2,Potentially Adverse Effect,No Positive Sign,0.0%,80.0%,20.0%
+15176.0,Everolimus,none,heart failure and Alzheimer disease,CompGCN,69,69,3,62,4,Neutral,69,0.043478260869565216,0.8985507246376812,0.057971014492753624,Potentially Adverse Effect,Potentially Therapeutic,4.3%,89.9%,5.8%
+14952.0,Haloperidol,none,heart failure and Alzheimer disease,CompGCN,19,19,0,16,3,Neutral,19,0.0,0.8421052631578947,0.15789473684210525,Potentially Adverse Effect,No Positive Sign,0.0%,84.2%,15.8%
+14276.0,Hydrochlorothiazide,none,heart failure and Alzheimer disease,CompGCN,200,200,15,180,5,Neutral,200,0.075,0.9,0.025,Potentially Therapeutic,Potentially Therapeutic,7.5%,90.0%,2.5%
+17730.0,Ibandronate,none,heart failure and Alzheimer disease,CompGCN,1,1,1,0,0,Positive,1,1.0,0.0,0.0,Potentially Therapeutic,Potentially Therapeutic,100.0%,0.0%,0.0%
+14487.0,Magnesium,none,heart failure and Alzheimer disease,CompGCN,200,200,4,195,1,Neutral,200,0.02,0.975,0.005,Potentially Therapeutic,Potentially Therapeutic,2.0%,97.5%,0.5%
+14849.0,Mechlorethamine,none,heart failure and Alzheimer disease,CompGCN,2,2,0,1,1,Inconclusive,2,0.0,0.5,0.5,Potentially Adverse Effect,No Positive Sign,0.0%,50.0%,50.0%
+15818.0,Memantine,none,heart failure and Alzheimer disease,CompGCN,10,10,1,7,2,Neutral,10,0.1,0.7,0.2,Potentially Adverse Effect,Potentially Therapeutic,10.0%,70.0%,20.0%
+16588.0,Metformin,none,heart failure and Alzheimer disease,CompGCN,200,200,15,179,5,Neutral,199,0.07537688442211055,0.8994974874371859,0.02512562814070352,Potentially Therapeutic,Potentially Therapeutic,7.5%,89.9%,2.5%
+14194.0,Methotrexate,none,heart failure and Alzheimer disease,CompGCN,164,164,8,150,6,Neutral,164,0.04878048780487805,0.9146341463414634,0.036585365853658534,Potentially Therapeutic,Potentially Therapeutic,4.9%,91.5%,3.7%
+15187.0,Nilotinib,none,heart failure and Alzheimer disease,CompGCN,23,23,0,13,10,Inconclusive,23,0.0,0.5652173913043478,0.43478260869565216,Potentially Adverse Effect,No Positive Sign,0.0%,56.5%,43.5%
+14792.0,Paclitaxel,none,heart failure and Alzheimer disease,CompGCN,190,190,1,154,35,Neutral,190,0.005263157894736842,0.8105263157894737,0.18421052631578946,Potentially Adverse Effect,Potentially Therapeutic,0.5%,81.1%,18.4%
+15001.0,Paliperidone,none,heart failure and Alzheimer disease,CompGCN,1,1,0,0,1,Negative,1,0.0,0.0,1.0,Potentially Adverse Effect,No Positive Sign,0.0%,0.0%,100.0%
+15205.0,Pazopanib,none,heart failure and Alzheimer disease,CompGCN,33,33,1,12,20,Negative,33,0.030303030303030304,0.36363636363636365,0.6060606060606061,Potentially Adverse Effect,Potentially Therapeutic,3.0%,36.4%,60.6%
+14993.0,Phenobarbital,none,heart failure and Alzheimer disease,CompGCN,8,8,0,8,0,Neutral,8,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14141.0,Phenytoin,none,heart failure and Alzheimer disease,CompGCN,16,16,1,12,3,Neutral,16,0.0625,0.75,0.1875,Potentially Adverse Effect,Potentially Therapeutic,6.2%,75.0%,18.8%
+16842.0,Pramipexole,none,heart failure and Alzheimer disease,CompGCN,21,21,0,13,8,Neutral,21,0.0,0.6190476190476191,0.38095238095238093,Potentially Adverse Effect,No Positive Sign,0.0%,61.9%,38.1%
+17558.0,Pregabalin,none,heart failure and Alzheimer disease,CompGCN,24,24,0,9,15,Negative,24,0.0,0.375,0.625,Potentially Adverse Effect,No Positive Sign,0.0%,37.5%,62.5%
+14852.0,Procainamide,none,heart failure and Alzheimer disease,CompGCN,19,19,0,18,1,Neutral,19,0.0,0.9473684210526315,0.05263157894736842,Potentially Adverse Effect,No Positive Sign,0.0%,94.7%,5.3%
+14914.0,Procarbazine,none,heart failure and Alzheimer disease,CompGCN,6,6,0,4,2,Neutral,6,0.0,0.6666666666666666,0.3333333333333333,Potentially Adverse Effect,No Positive Sign,0.0%,66.7%,33.3%
+15100.0,Prochlorperazine,none,heart failure and Alzheimer disease,CompGCN,1,1,0,1,0,Neutral,1,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14196.0,Propranolol,none,heart failure and Alzheimer disease,CompGCN,200,200,24,166,10,Neutral,200,0.12,0.83,0.05,Potentially Therapeutic,Potentially Therapeutic,12.0%,83.0%,5.0%
+17170.0,Pyridostigmine,none,heart failure and Alzheimer disease,CompGCN,20,20,6,13,1,Neutral,20,0.3,0.65,0.05,Potentially Therapeutic,Potentially Therapeutic,30.0%,65.0%,5.0%
+14184.0,Ritonavir,none,heart failure and Alzheimer disease,CompGCN,23,23,3,15,5,Neutral,23,0.13043478260869565,0.6521739130434783,0.21739130434782608,Potentially Adverse Effect,Potentially Therapeutic,13.0%,65.2%,21.7%
+17174.0,Rivastigmine,none,heart failure and Alzheimer disease,CompGCN,7,7,0,7,0,Neutral,7,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+15291.0,Ropinirole,none,heart failure and Alzheimer disease,CompGCN,10,10,0,8,2,Neutral,10,0.0,0.8,0.2,Potentially Adverse Effect,No Positive Sign,0.0%,80.0%,20.0%
+14975.0,Sirolimus,none,heart failure and Alzheimer disease,CompGCN,200,200,11,179,10,Neutral,200,0.055,0.895,0.05,Potentially Therapeutic,Potentially Therapeutic,5.5%,89.5%,5.0%
+15982.0,Sulfasalazine,none,heart failure and Alzheimer disease,CompGCN,11,11,0,8,3,Neutral,11,0.0,0.7272727272727273,0.2727272727272727,Potentially Adverse Effect,No Positive Sign,0.0%,72.7%,27.3%
+15294.0,Tacrine,none,heart failure and Alzheimer disease,CompGCN,76,76,0,76,0,Neutral,76,0.0,1.0,0.0,Neutral Relation,No Positive Sign,0.0%,100.0%,0.0%
+14251.0,Tacrolimus,none,heart failure and Alzheimer disease,CompGCN,122,122,1,111,10,Neutral,122,0.00819672131147541,0.9098360655737705,0.08196721311475409,Potentially Adverse Effect,Potentially Therapeutic,0.8%,91.0%,8.2%
+14868.0,Thiotepa,none,heart failure and Alzheimer disease,CompGCN,13,13,0,7,6,Inconclusive,13,0.0,0.5384615384615384,0.46153846153846156,Potentially Adverse Effect,No Positive Sign,0.0%,53.8%,46.2%
+14229.0,Tretinoin,none,heart failure and Alzheimer disease,CompGCN,70,70,3,57,10,Neutral,70,0.04285714285714286,0.8142857142857143,0.14285714285714285,Potentially Adverse Effect,Potentially Therapeutic,4.3%,81.4%,14.3%
+14023.0,Triamcinolone,none,heart failure and Alzheimer disease,CompGCN,5,5,1,4,0,Neutral,5,0.2,0.8,0.0,Potentially Therapeutic,Potentially Therapeutic,20.0%,80.0%,0.0%
+14955.0,Vincristine,none,heart failure and Alzheimer disease,CompGCN,78,78,1,70,7,Neutral,78,0.01282051282051282,0.8974358974358975,0.08974358974358974,Potentially Adverse Effect,Potentially Therapeutic,1.3%,89.7%,9.0%
+17728.0,Zoledronic acid,none,heart failure and Alzheimer disease,CompGCN,14,14,0,12,2,Neutral,14,0.0,0.8571428571428571,0.14285714285714285,Potentially Adverse Effect,No Positive Sign,0.0%,85.7%,14.3%

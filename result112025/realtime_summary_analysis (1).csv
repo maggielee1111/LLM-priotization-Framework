@@ -1,0 +1,291 @@
+Drug_ID,Drug_name,Disease_ID,Disease_name,Model,Total_Abstracts,Analyzed,Positive,Neutral,Negative,Overall_Assessment
+17584.0,Adalimumab,28780,Alzheimer disease,Hetio,49,49,0,49,0,Neutral
+14632.0,Adenosine phosphate ,28780,Alzheimer disease,TxGNN,200,200,0,200,0,Neutral
+20162.0,Alirocumab,28780,Alzheimer disease,TxGNN,2,2,0,1,1,Inconclusive
+14220.0,Apomorphine,28780,Alzheimer disease,TxGNN,9,9,1,8,0,Neutral
+14871.0,Aprotinin,28780,Alzheimer disease,CompGCN,15,15,0,15,0,Neutral
+14139.0,Benzatropine,28780,Alzheimer disease,Hetio,2,2,0,1,1,Inconclusive
+14288.0,Benzylpenicillin,28780,Alzheimer disease,Hetio,200,200,0,200,0,Neutral
+14019.0,Betamethasone,28780,Alzheimer disease,Hetio,4,4,0,3,1,Neutral
+14956.0,Carbamazepine,28780,Alzheimer disease,CompGCN,39,39,6,32,1,Neutral
+17524.0,Carmustine*,28780,Alzheimer disease,Hetio,2,2,1,1,0,Inconclusive
+14178.0,Chlorpromazine ,28780,Alzheimer disease,TxGNN,23,23,1,21,1,Neutral
+15826.0,Dalfampridine,28780,Alzheimer disease,TxGNN,28,28,0,28,0,Neutral
+14320.0,Dexamethasone,28780,Alzheimer disease,Hetio,54,54,0,43,11,Neutral
+15104.0,Dextromethorphan,28780,Alzheimer disease,CompGCN,200,200,0,199,1,Neutral
+14275.0,Doxorubicin,28780,Alzheimer disease,Hetio,36,36,0,34,2,Neutral
+15425.0,Doxycycline,28780,Alzheimer disease,Hetio,90,90,6,82,2,Neutral
+14831.0,Droxidopa,28780,Alzheimer disease,TxGNN,6,6,3,3,0,Inconclusive
+14499.0,Elexacaftor,28780,Alzheimer disease,TxGNN,1,1,0,1,0,Neutral
+15180.0,Fusidic acid,28780,Alzheimer disease,Hetio,3,3,0,3,0,Neutral
+14952.0,Haloperidol,28780,Alzheimer disease,CompGCN,30,30,1,24,5,Neutral
+15412.0,Histamine,28780,Alzheimer disease,Hetio,61,61,1,60,0,Neutral
+14028.0,Hydrocortisone,28780,Alzheimer disease,Hetio,142,142,0,134,8,Neutral
+14042.0,Hydrocortisone acetate,28780,Alzheimer disease,Hetio,1,1,0,0,1,Negative
+14452.0,Istradefylline ,28780,Alzheimer disease,TxGNN,4,4,2,1,1,Likely Positive
+14487.0,Magnesium,28780,Alzheimer disease,CompGCN,200,200,6,193,1,Neutral
+15818.0,Memantine,28780,Alzheimer disease,CompGCN,200,200,38,154,8,Neutral
+14269.0,Methylprednisolone,28780,Alzheimer disease,Hetio,8,8,0,7,1,Neutral
+15914.0,Minocycline,28780,Alzheimer disease,CompGCN,24,24,8,14,2,Inconclusive
+14238.0,Naproxen,28780,Alzheimer disease,Hetio,37,37,2,28,7,Neutral
+14861.0,Neostigmine,28780,Alzheimer disease,CompGCN,5,5,1,4,0,Neutral
+14843.0,Nizatidine,28780,Alzheimer disease,CompGCN,1,1,0,0,1,Negative
+15322.0,Norfloxacin,28780,Alzheimer disease,Hetio,10,10,0,10,0,Neutral
+15326.0,Ofloxacin,28780,Alzheimer disease,Hetio,8,8,0,8,0,Neutral
+15036.0,Olaparib,28780,Alzheimer disease,Hetio,2,2,0,2,0,Neutral
+14792.0,Paclitaxel,28780,Alzheimer disease,Hetio,42,42,0,41,1,Neutral
+15001.0,Paliperidone,28780,Alzheimer disease,CompGCN,4,4,0,4,0,Neutral
+20300.0,Perazine,28780,Alzheimer disease,CompGCN,7,7,0,7,0,Neutral
+15127.0,Perphenazine,28780,Alzheimer disease,CompGCN,2,2,0,2,0,Neutral
+14993.0,Phenobarbital,28780,Alzheimer disease,CompGCN,8,8,0,8,0,Neutral
+14141.0,Phenytoin,28780,Alzheimer disease,CompGCN,8,8,0,7,1,Neutral
+17270.0,Pimavanserin ,28780,Alzheimer disease,TxGNN,8,8,1,7,0,Neutral
+14988.0,Pimozide,28780,Alzheimer disease,CompGCN,3,3,0,3,0,Neutral
+14371.0,Pirfenidone,28780,Alzheimer disease,TxGNN,2,2,0,2,0,Neutral
+20568.0,Polidocanol,28780,Alzheimer disease,TxGNN,1,1,0,1,0,Neutral
+14030.0,Prednisolone,28780,Alzheimer disease,Hetio,16,16,0,16,0,Neutral
+14024.0,Prednisone,28780,Alzheimer disease,Hetio,7,7,0,6,1,Neutral
+15311.0,Primidone,28780,Alzheimer disease,CompGCN,1,1,0,1,0,Neutral
+14852.0,Procainamide,28780,Alzheimer disease,CompGCN,2,2,0,2,0,Neutral
+17170.0,Pyridostigmine,28780,Alzheimer disease,CompGCN,2,2,0,2,0,Neutral
+15308.0,Riluzole,28780,Alzheimer disease,CompGCN,7,7,2,5,0,Neutral
+15291.0,Ropinirole,28780,Alzheimer disease,CompGCN,1,1,0,1,0,Neutral
+14904.0,Safinamide ,28780,Alzheimer disease,TxGNN,2,2,0,2,0,Neutral
+20652.0,Sivelestat,28780,Alzheimer disease,TxGNN,1,1,0,1,0,Neutral
+20500.0,Succinimide,28780,Alzheimer disease,TxGNN,3,3,0,3,0,Neutral
+14208.0,Testosterone,28780,Alzheimer disease,Hetio,103,103,5,97,1,Neutral
+15185.0,Tetrabenazine,28780,Alzheimer disease,TxGNN,1,1,0,1,0,Neutral
+15772.0,Tolcapone,28780,Alzheimer disease,TxGNN,3,3,0,3,0,Neutral
+14875.0,Tretamine,28780,Alzheimer disease,CompGCN,194,194,0,194,0,Neutral
+14875.0,Tretamine,28780,Alzheimer disease,Hetio,194,194,0,194,0,Neutral
+14023.0,Triamcinolone,28780,Alzheimer disease,Hetio,1,1,0,1,0,Neutral
+15679.0,Vinpocetine ,28780,Alzheimer disease,TxGNN,8,8,0,8,0,Neutral
+15099.0,Zolpidem,28780,Alzheimer disease,CompGCN,3,3,0,1,2,Negative
+15399.0,Acefylline,99214,cardiomyopathy due to anthracyclines,TxGNN,1,1,0,1,0,Neutral
+16036.0,Acetylcysteine,99214,cardiomyopathy due to anthracyclines,CompGCN,128,128,11,113,4,Neutral
+16219.0,Alprostadil,99214,cardiomyopathy due to anthracyclines,CompGCN,11,11,0,11,0,Neutral
+14302.0,Amiodarone,99214,cardiomyopathy due to anthracyclines,CompGCN,200,200,0,185,15,Neutral
+14302.0,Amiodarone,99214,cardiomyopathy due to anthracyclines,eAICTable1only,200,200,0,185,15,Neutral
+17222.0,Amrinone,99214,cardiomyopathy due to anthracyclines,eAICTable1only,1,1,0,1,0,Neutral
+19882.0,Anisomycin,99214,cardiomyopathy due to anthracyclines,eAICTable1only,1,1,0,0,1,Negative
+15160.0,Arformoterol,99214,cardiomyopathy due to anthracyclines,TxGNN,1,1,0,1,0,Neutral
+14128.0,Ascorbic acid,99214,cardiomyopathy due to anthracyclines,CompGCN,64,64,6,56,2,Neutral
+14783.0,Caffeine,99214,cardiomyopathy due to anthracyclines,CompGCN,59,59,0,49,10,Neutral
+14956.0,Carbamazepine,99214,cardiomyopathy due to anthracyclines,CompGCN,6,6,0,6,0,Neutral
+14956.0,Carbamazepine,99214,cardiomyopathy due to anthracyclines,eAICTable1only,6,6,0,6,0,Neutral
+14653.0,Choline,99214,cardiomyopathy due to anthracyclines,CompGCN,36,36,0,36,0,Neutral
+14991.0,Cilostazol,99214,cardiomyopathy due to anthracyclines,TxGNN,6,6,1,5,0,Neutral
+14186.0,Cisplatin,99214,cardiomyopathy due to anthracyclines,CompGCN,40,40,0,31,9,Neutral
+14686.0,Clomifene,99214,cardiomyopathy due to anthracyclines,CompGCN,1,1,0,1,0,Neutral
+14198.0,Clonidine,99214,cardiomyopathy due to anthracyclines,eAICTable1only,14,14,0,13,1,Neutral
+14934.0,Cyclosporine,99214,cardiomyopathy due to anthracyclines,CompGCN,167,167,3,161,3,Neutral
+16281.0,Cysteine,99214,cardiomyopathy due to anthracyclines,CompGCN,200,200,3,197,0,Neutral
+14780.0,Cytarabine,99214,cardiomyopathy due to anthracyclines,CompGCN,27,27,0,22,5,Neutral
+14794.0,Dasatinib,99214,cardiomyopathy due to anthracyclines,CompGCN,11,11,1,10,0,Neutral
+14794.0,Dasatinib,99214,cardiomyopathy due to anthracyclines,eAICTable2,11,11,1,10,0,Neutral
+14320.0,Dexamethasone,99214,cardiomyopathy due to anthracyclines,CompGCN,115,115,1,103,11,Neutral
+17653.0,Dexrazoxane,99214,cardiomyopathy due to anthracyclines,eAICTable2,200,200,144,53,3,Positive
+15840.0,Digoxin,99214,cardiomyopathy due to anthracyclines,CompGCN,200,200,2,188,10,Neutral
+15840.0,Digoxin,99214,cardiomyopathy due to anthracyclines,eAICTable2,200,200,2,188,10,Neutral
+21505.0,Emetine,99214,cardiomyopathy due to anthracyclines,eAICTable1only,2,2,0,1,1,Inconclusive
+15263.0,Enasidenib,99214,cardiomyopathy due to anthracyclines,TxGNN,2,2,0,2,0,Neutral
+16028.0,Eribulin,99214,cardiomyopathy due to anthracyclines,TxGNN,2,2,0,2,0,Neutral
+14936.0,Erythromycin,99214,cardiomyopathy due to anthracyclines,CompGCN,5,5,0,5,0,Neutral
+17537.0,Erythropoietin,99214,cardiomyopathy due to anthracyclines,CompGCN,68,68,7,59,2,Neutral
+16347.0,Ferrous fumarate,99214,cardiomyopathy due to anthracyclines,CompGCN,1,1,0,1,0,Neutral
+14272.0,Formoterol,99214,cardiomyopathy due to anthracyclines,TxGNN,1,1,0,1,0,Neutral
+15180.0,Fusidic acid,99214,cardiomyopathy due to anthracyclines,CompGCN,1,1,0,1,0,Neutral
+20263.0,Ganciclovir,99214,cardiomyopathy due to anthracyclines,CompGCN,9,9,0,9,0,Neutral
+14591.0,Glycine,99214,cardiomyopathy due to anthracyclines,CompGCN,129,129,1,127,1,Neutral
+15412.0,Histamine,99214,cardiomyopathy due to anthracyclines,CompGCN,16,16,0,16,0,Neutral
+14276.0,Hydrochlorothiazide,99214,cardiomyopathy due to anthracyclines,CompGCN,11,11,0,11,0,Neutral
+14207.0,Imatinib,99214,cardiomyopathy due to anthracyclines,CompGCN,25,25,0,18,7,Neutral
+15288.0,Interferon alfa-2b,99214,cardiomyopathy due to anthracyclines,TxGNN,2,2,0,0,2,Negative
+15284.0,Interferon beta-1a,99214,cardiomyopathy due to anthracyclines,TxGNN,1,1,0,0,1,Negative
+15285.0,Interferon beta-1b,99214,cardiomyopathy due to anthracyclines,TxGNN,4,4,0,3,1,Neutral
+15739.0,Ivosidenib,99214,cardiomyopathy due to anthracyclines,TxGNN,1,1,0,1,0,Neutral
+14281.0,Ketoconazole,99214,cardiomyopathy due to anthracyclines,CompGCN,6,6,0,6,0,Neutral
+15254.0,Levosalbutamol,99214,cardiomyopathy due to anthracyclines,TxGNN,15,15,0,12,3,Neutral
+14060.0,Levothyroxine,99214,cardiomyopathy due to anthracyclines,CompGCN,167,167,0,159,8,Neutral
+14940.0,Lidocaine,99214,cardiomyopathy due to anthracyclines,CompGCN,65,65,0,61,4,Neutral
+61758.0,Lithium,99214,cardiomyopathy due to anthracyclines,eAICTable1only,53,53,1,42,10,Neutral
+15125.0,Loperamide,99214,cardiomyopathy due to anthracyclines,eAICTable2,9,9,0,5,4,Inconclusive
+16588.0,Metformin,99214,cardiomyopathy due to anthracyclines,eAICTable2,156,156,4,152,0,Neutral
+14194.0,Methotrexate,99214,cardiomyopathy due to anthracyclines,CompGCN,57,57,0,54,3,Neutral
+15018.0,Midostaurin,99214,cardiomyopathy due to anthracyclines,TxGNN,1,1,0,1,0,Neutral
+14150.0,Morphine,99214,cardiomyopathy due to anthracyclines,CompGCN,22,22,0,22,0,Neutral
+15440.0,Nimodipine,99214,cardiomyopathy due to anthracyclines,eAICTable2,2,2,0,2,0,Neutral
+14985.0,Nitrendipine,99214,cardiomyopathy due to anthracyclines,eAICTable1only,5,5,0,3,2,Neutral
+16352.0,Norepinephrine,99214,cardiomyopathy due to anthracyclines,TxGNN,200,200,0,189,11,Neutral
+17626.0,Ouabain,99214,cardiomyopathy due to anthracyclines,eAICTable1only,23,23,0,22,1,Neutral
+20457.0,Ozagrel,99214,cardiomyopathy due to anthracyclines,TxGNN,1,1,0,1,0,Neutral
+14792.0,Paclitaxel,99214,cardiomyopathy due to anthracyclines,CompGCN,46,46,0,36,10,Neutral
+15205.0,Pazopanib,99214,cardiomyopathy due to anthracyclines,CompGCN,8,8,0,1,7,Negative
+20239.0,Penicillamine,99214,cardiomyopathy due to anthracyclines,CompGCN,4,4,0,4,0,Neutral
+14993.0,Phenobarbital,99214,cardiomyopathy due to anthracyclines,CompGCN,5,5,0,5,0,Neutral
+14265.0,Phenprocoumon,99214,cardiomyopathy due to anthracyclines,TxGNN,3,3,0,2,1,Neutral
+14141.0,Phenytoin,99214,cardiomyopathy due to anthracyclines,CompGCN,7,7,1,6,0,Neutral
+17407.0,Pravastatin,99214,cardiomyopathy due to anthracyclines,CompGCN,8,8,0,7,1,Neutral
+17407.0,Pravastatin,99214,cardiomyopathy due to anthracyclines,eAICTable2,8,8,0,7,1,Neutral
+19883.0,Puromycin,99214,cardiomyopathy due to anthracyclines,eAICTable2,2,2,0,2,0,Neutral
+14359.0,Quercetin,99214,cardiomyopathy due to anthracyclines,eAICTable2,55,55,8,46,1,Neutral
+14667.0,Risedronic acid,99214,cardiomyopathy due to anthracyclines,CompGCN,1,1,0,1,0,Neutral
+14184.0,Ritonavir,99214,cardiomyopathy due to anthracyclines,CompGCN,12,12,0,8,4,Neutral
+14263.0,Salmeterol,99214,cardiomyopathy due to anthracyclines,TxGNN,1,1,0,1,0,Neutral
+14975.0,Sirolimus,99214,cardiomyopathy due to anthracyclines,eAICTable2,200,200,4,190,6,Neutral
+14168.0,Spironolactone,99214,cardiomyopathy due to anthracyclines,CompGCN,164,164,6,157,1,Neutral
+14168.0,Spironolactone,99214,cardiomyopathy due to anthracyclines,eAICTable2,164,164,6,157,1,Neutral
+20336.0,Temozolomide,99214,cardiomyopathy due to anthracyclines,eAICTable1only,25,25,0,25,0,Neutral
+14784.0,Theophylline,99214,cardiomyopathy due to anthracyclines,CompGCN,13,13,0,12,1,Neutral
+14784.0,Theophylline,99214,cardiomyopathy due to anthracyclines,TxGNN,13,13,0,12,1,Neutral
+14868.0,Thiotepa,99214,cardiomyopathy due to anthracyclines,CompGCN,2,2,0,2,0,Neutral
+14399.0,Ticagrelor,99214,cardiomyopathy due to anthracyclines,TxGNN,13,13,0,13,0,Neutral
+15586.0,Tranilast,99214,cardiomyopathy due to anthracyclines,TxGNN,16,16,1,15,0,Neutral
+14229.0,Tretinoin,99214,cardiomyopathy due to anthracyclines,CompGCN,58,58,2,52,4,Neutral
+14913.0,Trifluoperazine,99214,cardiomyopathy due to anthracyclines,eAICTable2,2,2,0,1,1,Inconclusive
+17568.0,Tulobuterol,99214,cardiomyopathy due to anthracyclines,TxGNN,1,1,0,1,0,Neutral
+14153.0,Valproic acid,99214,cardiomyopathy due to anthracyclines,CompGCN,28,28,0,23,5,Neutral
+14153.0,Valproic acid,99214,cardiomyopathy due to anthracyclines,eAICTable2,28,28,0,23,5,Neutral
+14974.0,Vardenafil,99214,cardiomyopathy due to anthracyclines,CompGCN,7,7,1,6,0,Neutral
+14212.0,Verapamil,99214,cardiomyopathy due to anthracyclines,eAICTable1only,107,107,1,102,4,Neutral
+14212.0,Verapamil,99214,cardiomyopathy due to anthracyclines,eAICTable1only,175,175,1,170,4,Neutral
+14955.0,Vincristine,99214,cardiomyopathy due to anthracyclines,CompGCN,34,34,1,33,0,Neutral
+14226.0,Zileuton,99214,cardiomyopathy due to anthracyclines,TxGNN,1,1,0,1,0,Neutral
+15399.0,Acefylline,99367,doxorubicin induced cardiomyopathy,TxGNN,1,1,0,1,0,Neutral
+16036.0,Acetylcysteine,99367,doxorubicin induced cardiomyopathy,CompGCN,123,123,8,112,3,Neutral
+16219.0,Alprostadil,99367,doxorubicin induced cardiomyopathy,CompGCN,11,11,0,11,0,Neutral
+14302.0,Amiodarone,99367,doxorubicin induced cardiomyopathy,eAICTable1only,200,200,0,188,12,Neutral
+17222.0,Amrinone,99367,doxorubicin induced cardiomyopathy,eAICTable1only,1,1,0,1,0,Neutral
+19882.0,Anisomycin,99367,doxorubicin induced cardiomyopathy,eAICTable1only,1,1,0,1,0,Neutral
+15160.0,Arformoterol,99367,doxorubicin induced cardiomyopathy,TxGNN,1,1,0,1,0,Neutral
+14128.0,Ascorbic acid,99367,doxorubicin induced cardiomyopathy,CompGCN,60,60,6,51,3,Neutral
+14783.0,Caffeine,99367,doxorubicin induced cardiomyopathy,CompGCN,58,58,0,54,4,Neutral
+17987.0,Calcium chloride,99367,doxorubicin induced cardiomyopathy,CompGCN,3,3,0,3,0,Neutral
+14956.0,Carbamazepine,99367,doxorubicin induced cardiomyopathy,CompGCN,6,6,0,6,0,Neutral
+14956.0,Carbamazepine,99367,doxorubicin induced cardiomyopathy,eAICTable1only,6,6,0,6,0,Neutral
+17524.0,Carmustine,99367,doxorubicin induced cardiomyopathy,CompGCN,4,4,0,2,2,Inconclusive
+14653.0,Choline,99367,doxorubicin induced cardiomyopathy,CompGCN,36,36,0,36,0,Neutral
+14991.0,Cilostazol,99367,doxorubicin induced cardiomyopathy,TxGNN,6,6,1,5,0,Neutral
+14186.0,Cisplatin,99367,doxorubicin induced cardiomyopathy,CompGCN,34,34,0,32,2,Neutral
+14686.0,Clomifene,99367,doxorubicin induced cardiomyopathy,CompGCN,1,1,0,1,0,Neutral
+14198.0,Clonidine,99367,doxorubicin induced cardiomyopathy,eAICTable1only,14,14,0,14,0,Neutral
+14934.0,Cyclosporine,99367,doxorubicin induced cardiomyopathy,CompGCN,166,166,2,162,2,Neutral
+16281.0,Cysteine,99367,doxorubicin induced cardiomyopathy,CompGCN,200,200,0,200,0,Neutral
+14780.0,Cytarabine,99367,doxorubicin induced cardiomyopathy,CompGCN,21,21,0,19,2,Neutral
+14794.0,Dasatinib,99367,doxorubicin induced cardiomyopathy,CompGCN,11,11,0,10,1,Neutral
+14794.0,Dasatinib,99367,doxorubicin induced cardiomyopathy,eAICTable2,11,11,0,10,1,Neutral
+14789.0,Daunorubicin,99367,doxorubicin induced cardiomyopathy,CompGCN,77,77,0,66,11,Neutral
+14320.0,Dexamethasone,99367,doxorubicin induced cardiomyopathy,CompGCN,115,115,1,104,10,Neutral
+17653.0,Dexrazoxane,99367,doxorubicin induced cardiomyopathy,eAICTable2,99,99,69,29,1,Positive
+15840.0,Digoxin,99367,doxorubicin induced cardiomyopathy,CompGCN,200,200,1,194,5,Neutral
+15840.0,Digoxin,99367,doxorubicin induced cardiomyopathy,eAICTable2,200,200,1,194,5,Neutral
+21505.0,Emetine,99367,doxorubicin induced cardiomyopathy,eAICTable1only,2,2,0,2,0,Neutral
+15263.0,Enasidenib,99367,doxorubicin induced cardiomyopathy,TxGNN,2,2,0,2,0,Neutral
+14560.0,Ergocalciferol,99367,doxorubicin induced cardiomyopathy,CompGCN,3,3,0,3,0,Neutral
+16028.0,Eribulin,99367,doxorubicin induced cardiomyopathy,TxGNN,2,2,0,2,0,Neutral
+14936.0,Erythromycin,99367,doxorubicin induced cardiomyopathy,CompGCN,5,5,0,5,0,Neutral
+17537.0,Erythropoietin,99367,doxorubicin induced cardiomyopathy,CompGCN,67,67,6,59,2,Neutral
+16347.0,Ferrous fumarate,99367,doxorubicin induced cardiomyopathy,CompGCN,1,1,0,1,0,Neutral
+14272.0,Formoterol,99367,doxorubicin induced cardiomyopathy,TxGNN,1,1,0,1,0,Neutral
+15180.0,Fusidic acid,99367,doxorubicin induced cardiomyopathy,CompGCN,1,1,0,1,0,Neutral
+20263.0,Ganciclovir,99367,doxorubicin induced cardiomyopathy,CompGCN,9,9,0,9,0,Neutral
+14591.0,Glycine,99367,doxorubicin induced cardiomyopathy,CompGCN,129,129,1,127,1,Neutral
+15412.0,Histamine,99367,doxorubicin induced cardiomyopathy,CompGCN,14,14,0,14,0,Neutral
+14276.0,Hydrochlorothiazide,99367,doxorubicin induced cardiomyopathy,CompGCN,11,11,0,11,0,Neutral
+14207.0,Imatinib,99367,doxorubicin induced cardiomyopathy,CompGCN,25,25,0,20,5,Neutral
+15288.0,Interferon alfa-2b,99367,doxorubicin induced cardiomyopathy,TxGNN,2,2,0,0,2,Negative
+15284.0,Interferon beta-1a,99367,doxorubicin induced cardiomyopathy,TxGNN,1,1,0,1,0,Neutral
+15285.0,Interferon beta-1b,99367,doxorubicin induced cardiomyopathy,TxGNN,4,4,0,4,0,Neutral
+15739.0,Ivosidenib,99367,doxorubicin induced cardiomyopathy,TxGNN,1,1,0,1,0,Neutral
+14281.0,Ketoconazole,99367,doxorubicin induced cardiomyopathy,CompGCN,6,6,0,6,0,Neutral
+15254.0,Levosalbutamol,99367,doxorubicin induced cardiomyopathy,TxGNN,15,15,0,15,0,Neutral
+14060.0,Levothyroxine,99367,doxorubicin induced cardiomyopathy,CompGCN,162,162,0,157,5,Neutral
+14940.0,Lidocaine,99367,doxorubicin induced cardiomyopathy,CompGCN,65,65,0,61,4,Neutral
+61758.0,Lithium,99367,doxorubicin induced cardiomyopathy,eAICTable1only,52,52,0,44,8,Neutral
+15125.0,Loperamide,99367,doxorubicin induced cardiomyopathy,eAICTable2,9,9,0,5,4,Inconclusive
+16588.0,Metformin,99367,doxorubicin induced cardiomyopathy,eAICTable2,153,153,2,151,0,Neutral
+14194.0,Methotrexate,99367,doxorubicin induced cardiomyopathy,CompGCN,54,54,0,52,2,Neutral
+15018.0,Midostaurin,99367,doxorubicin induced cardiomyopathy,TxGNN,1,1,0,1,0,Neutral
+15440.0,Nimodipine,99367,doxorubicin induced cardiomyopathy,eAICTable2,2,2,0,2,0,Neutral
+14985.0,Nitrendipine,99367,doxorubicin induced cardiomyopathy,eAICTable1only,5,5,0,3,2,Neutral
+16352.0,Norepinephrine,99367,doxorubicin induced cardiomyopathy,TxGNN,200,200,0,193,7,Neutral
+17626.0,Ouabain,99367,doxorubicin induced cardiomyopathy,eAICTable1only,23,23,0,21,2,Neutral
+20457.0,Ozagrel,99367,doxorubicin induced cardiomyopathy,TxGNN,1,1,0,1,0,Neutral
+14792.0,Paclitaxel,99367,doxorubicin induced cardiomyopathy,CompGCN,35,35,0,30,5,Neutral
+20239.0,Penicillamine,99367,doxorubicin induced cardiomyopathy,CompGCN,4,4,0,4,0,Neutral
+14993.0,Phenobarbital,99367,doxorubicin induced cardiomyopathy,CompGCN,4,4,0,4,0,Neutral
+14265.0,Phenprocoumon,99367,doxorubicin induced cardiomyopathy,TxGNN,3,3,0,2,1,Neutral
+14141.0,Phenytoin,99367,doxorubicin induced cardiomyopathy,CompGCN,7,7,1,6,0,Neutral
+16085.0,Potassium chloride,99367,doxorubicin induced cardiomyopathy,CompGCN,18,18,0,18,0,Neutral
+17407.0,Pravastatin,99367,doxorubicin induced cardiomyopathy,CompGCN,8,8,0,8,0,Neutral
+17407.0,Pravastatin,99367,doxorubicin induced cardiomyopathy,eAICTable2,8,8,0,8,0,Neutral
+19883.0,Puromycin,99367,doxorubicin induced cardiomyopathy,eAICTable2,2,2,0,2,0,Neutral
+14359.0,Quercetin,99367,doxorubicin induced cardiomyopathy,eAICTable2,50,50,6,44,0,Neutral
+14263.0,Salmeterol,99367,doxorubicin induced cardiomyopathy,TxGNN,1,1,0,1,0,Neutral
+14975.0,Sirolimus,99367,doxorubicin induced cardiomyopathy,eAICTable2,200,200,5,193,2,Neutral
+14168.0,Spironolactone,99367,doxorubicin induced cardiomyopathy,CompGCN,162,162,2,158,2,Neutral
+14168.0,Spironolactone,99367,doxorubicin induced cardiomyopathy,eAICTable2,162,162,2,158,2,Neutral
+20336.0,Temozolomide,99367,doxorubicin induced cardiomyopathy,eAICTable1only,24,24,0,24,0,Neutral
+14784.0,Theophylline,99367,doxorubicin induced cardiomyopathy,CompGCN,13,13,0,12,1,Neutral
+14784.0,Theophylline,99367,doxorubicin induced cardiomyopathy,TxGNN,13,13,0,12,1,Neutral
+14868.0,Thiotepa,99367,doxorubicin induced cardiomyopathy,CompGCN,2,2,0,2,0,Neutral
+14399.0,Ticagrelor,99367,doxorubicin induced cardiomyopathy,TxGNN,13,13,0,13,0,Neutral
+15586.0,Tranilast,99367,doxorubicin induced cardiomyopathy,TxGNN,16,16,1,15,0,Neutral
+14229.0,Tretinoin,99367,doxorubicin induced cardiomyopathy,CompGCN,53,53,1,50,2,Neutral
+14913.0,Trifluoperazine,99367,doxorubicin induced cardiomyopathy,eAICTable2,1,1,0,1,0,Neutral
+17568.0,Tulobuterol,99367,doxorubicin induced cardiomyopathy,TxGNN,1,1,0,1,0,Neutral
+14153.0,Valproic acid,99367,doxorubicin induced cardiomyopathy,eAICTable2,28,28,0,27,1,Neutral
+14974.0,Vardenafil,99367,doxorubicin induced cardiomyopathy,CompGCN,7,7,2,5,0,Neutral
+14212.0,Verapamil,99367,doxorubicin induced cardiomyopathy,eAICTable1only,140,140,0,137,3,Neutral
+14212.0,Verapamil,99367,doxorubicin induced cardiomyopathy,eAICTable1only,140,140,0,137,3,Neutral
+14955.0,Vincristine,99367,doxorubicin induced cardiomyopathy,CompGCN,24,24,1,23,0,Neutral
+14226.0,Zileuton,99367,doxorubicin induced cardiomyopathy,TxGNN,1,1,0,1,0,Neutral
+20211.0,Acetylcarnitine,none,heart failure and Alzheimer disease,CompGCN,13,13,0,12,1,Neutral
+14830.0,Amantadine,none,heart failure and Alzheimer disease,CompGCN,4,4,1,3,0,Neutral
+14302.0,Amiodarone,none,heart failure and Alzheimer disease,CompGCN,200,200,8,160,32,Neutral
+15077.0,Bortezomib,none,heart failure and Alzheimer disease,CompGCN,136,136,8,88,40,Neutral
+15493.0,Bromocriptine,none,heart failure and Alzheimer disease,CompGCN,113,113,41,68,4,Neutral
+14956.0,Carbamazepine,none,heart failure and Alzheimer disease,CompGCN,14,14,0,9,5,Neutral
+17524.0,Carmustine,none,heart failure and Alzheimer disease,CompGCN,8,8,0,5,3,Neutral
+16793.0,Chlorothiazide,none,heart failure and Alzheimer disease,CompGCN,23,23,7,14,2,Neutral
+14934.0,Cyclosporine,none,heart failure and Alzheimer disease,CompGCN,200,200,4,193,3,Neutral
+14780.0,Cytarabine,none,heart failure and Alzheimer disease,CompGCN,31,31,0,26,5,Neutral
+14320.0,Dexamethasone,none,heart failure and Alzheimer disease,CompGCN,200,200,11,161,28,Neutral
+15840.0,Digoxin,none,heart failure and Alzheimer disease,CompGCN,200,200,48,131,21,Neutral
+15126.0,Donepezil,none,heart failure and Alzheimer disease,CompGCN,28,28,17,11,0,Positive
+14275.0,Doxorubicin,none,heart failure and Alzheimer disease,CompGCN,200,200,0,42,158,Negative
+17428.0,Etidronic acid,none,heart failure and Alzheimer disease,CompGCN,10,10,0,8,2,Neutral
+15176.0,Everolimus,none,heart failure and Alzheimer disease,CompGCN,69,69,3,62,4,Neutral
+14952.0,Haloperidol,none,heart failure and Alzheimer disease,CompGCN,19,19,0,16,3,Neutral
+14276.0,Hydrochlorothiazide,none,heart failure and Alzheimer disease,CompGCN,200,200,15,180,5,Neutral
+17730.0,Ibandronate,none,heart failure and Alzheimer disease,CompGCN,1,1,1,0,0,Positive
+14487.0,Magnesium,none,heart failure and Alzheimer disease,CompGCN,200,200,4,195,1,Neutral
+14849.0,Mechlorethamine,none,heart failure and Alzheimer disease,CompGCN,2,2,0,1,1,Inconclusive
+15818.0,Memantine,none,heart failure and Alzheimer disease,CompGCN,10,10,1,7,2,Neutral
+16588.0,Metformin,none,heart failure and Alzheimer disease,CompGCN,200,200,15,179,5,Neutral
+14194.0,Methotrexate,none,heart failure and Alzheimer disease,CompGCN,164,164,8,150,6,Neutral
+15187.0,Nilotinib,none,heart failure and Alzheimer disease,CompGCN,23,23,0,13,10,Inconclusive
+14792.0,Paclitaxel,none,heart failure and Alzheimer disease,CompGCN,190,190,1,154,35,Neutral
+15001.0,Paliperidone,none,heart failure and Alzheimer disease,CompGCN,1,1,0,0,1,Negative
+15205.0,Pazopanib,none,heart failure and Alzheimer disease,CompGCN,33,33,1,12,20,Negative
+14993.0,Phenobarbital,none,heart failure and Alzheimer disease,CompGCN,8,8,0,8,0,Neutral
+14141.0,Phenytoin,none,heart failure and Alzheimer disease,CompGCN,16,16,1,12,3,Neutral
+16842.0,Pramipexole,none,heart failure and Alzheimer disease,CompGCN,21,21,0,13,8,Neutral
+17558.0,Pregabalin,none,heart failure and Alzheimer disease,CompGCN,24,24,0,9,15,Negative
+14852.0,Procainamide,none,heart failure and Alzheimer disease,CompGCN,19,19,0,18,1,Neutral
+14914.0,Procarbazine,none,heart failure and Alzheimer disease,CompGCN,6,6,0,4,2,Neutral
+15100.0,Prochlorperazine,none,heart failure and Alzheimer disease,CompGCN,1,1,0,1,0,Neutral
+14196.0,Propranolol,none,heart failure and Alzheimer disease,CompGCN,200,200,24,166,10,Neutral
+17170.0,Pyridostigmine,none,heart failure and Alzheimer disease,CompGCN,20,20,6,13,1,Neutral
+14184.0,Ritonavir,none,heart failure and Alzheimer disease,CompGCN,23,23,3,15,5,Neutral
+17174.0,Rivastigmine,none,heart failure and Alzheimer disease,CompGCN,7,7,0,7,0,Neutral
+15291.0,Ropinirole,none,heart failure and Alzheimer disease,CompGCN,10,10,0,8,2,Neutral
+14975.0,Sirolimus,none,heart failure and Alzheimer disease,CompGCN,200,200,11,179,10,Neutral
+15982.0,Sulfasalazine,none,heart failure and Alzheimer disease,CompGCN,11,11,0,8,3,Neutral
+15294.0,Tacrine,none,heart failure and Alzheimer disease,CompGCN,76,76,0,76,0,Neutral
+14251.0,Tacrolimus,none,heart failure and Alzheimer disease,CompGCN,122,122,1,111,10,Neutral
+14868.0,Thiotepa,none,heart failure and Alzheimer disease,CompGCN,13,13,0,7,6,Inconclusive
+14229.0,Tretinoin,none,heart failure and Alzheimer disease,CompGCN,70,70,3,57,10,Neutral
+14023.0,Triamcinolone,none,heart failure and Alzheimer disease,CompGCN,5,5,1,4,0,Neutral
+14955.0,Vincristine,none,heart failure and Alzheimer disease,CompGCN,78,78,1,70,7,Neutral
+17728.0,Zoledronic acid,none,heart failure and Alzheimer disease,CompGCN,14,14,0,12,2,Neutral
